@@ -43,10 +43,10 @@ Here, you'll find a collection of Python solutions for various programming probl
 ---
 ## 📊 Progress Tracker  
 
-| Difficulty | Problems Solved |  
+| Difficulty |  Problems Solved |  
 |------------|-----------------|  
-| Easy       | ✅ 10           |  
-| Medium     | ✅ 1            |  
+| Easy       | ✅ 14           |  
+| Medium     | ✅ 3            |  
 | Hard       | ✅ 1            |  
 
 ## 🗂 Repository Structure  
