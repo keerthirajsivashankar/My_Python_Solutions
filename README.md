@@ -45,7 +45,7 @@ Here, you'll find a collection of Python solutions for various programming probl
 
 | Difficulty |  Problems Solved |  
 |------------|-----------------|  
-| Easy       | ✅ 14           |  
+| Easy       | ✅ 15           |  
 | Medium     | ✅ 3            |  
 | Hard       | ✅ 1            |  
 
