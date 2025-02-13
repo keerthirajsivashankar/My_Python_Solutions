@@ -46,7 +46,7 @@ Here, you'll find a collection of Python solutions for various programming probl
 | Difficulty |  Problems Solved |  
 |------------|-----------------|  
 | Easy       | ✅ 23           |  
-| Medium     | ✅ 10            |  
+| Medium     | ✅ 11            |  
 | Hard       | ✅ 1            |  
 
 ## 🗂 Repository Structure  
