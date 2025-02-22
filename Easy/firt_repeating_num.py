@@ -1,9 +1,10 @@
-from collections import Counter 
 def isrepeating(arr):
-    count = Counter(arr)
-    for k,f in count.items():
-        if f > 1:
-            return k
+    seen = set()
+    for num in arr:
+        if num in seen:
+            return num
+        else:
+            seen.add(num)
     
 arr = list(map(int,input("Enter the list with space : ").split()))
 print(isrepeating(arr))
