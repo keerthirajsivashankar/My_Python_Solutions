@@ -35,7 +35,6 @@ if __name__ == "__main__":
     questions4 = [[100,100],[1,1],[1,1],[1,1],[1,1]]
     result4 = most_points(questions4)
     print(f"Most points for {questions4}: {result4}")
-
     questions5 = [[10,1],[1,10],[10,1]]
     result5 = most_points(questions5)
     print(f"Most points for {questions5}: {result5}")
