@@ -10,7 +10,7 @@ class Solution:
 
         return m
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     nums = list(map(int, input("Enter the list of numbers separated by spaces: ").split()))
     sol = Solution()
     result = sol.maxAdjacentDistance(nums)
